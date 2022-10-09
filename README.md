@@ -1,2 +1,1 @@
-# cd701
-Introducción a Azure
+# az101 Introducción a Azure
